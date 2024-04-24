@@ -1,0 +1,16 @@
+body{
+    background-color: cornsilk;
+    font-family: "Urbanist", sans-serif;
+    }
+    
+    span{
+        color: rgb(38, 0, 255);
+        font-weight: 100%;
+        font-size: larger;
+        font-family: sans-serif;
+    }
+    
+    a{
+        color: rgb(165, 42, 42);
+    }
+    
